@@ -22,3 +22,9 @@ Since the site explicitly allows copying and use of the materials on the site, I
 - To help keep the content available after the site's scheduled shutdown.
 
 I'll check in with the original site from time to time to see if anything has been added, and update this mirror as needed.
+
+For what it's worth, this mirror was created with the following command:
+
+    wget -mkEpnp -p --wait=2  https://tomlehrersongs.com/
+
+Suggestions for improvement are welcome.
